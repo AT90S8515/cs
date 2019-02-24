@@ -19,7 +19,7 @@ namespace 测试
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("测试");
+            MessageBox.Show("测试1");
         }
     }
 }
